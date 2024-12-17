@@ -16,7 +16,7 @@ $ npm i
 $ npm test
 ```
 
-## Developmen
+## Developmenasdasd
 
 ```sh
 $ npm start
