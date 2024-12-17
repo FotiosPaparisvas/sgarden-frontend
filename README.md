@@ -16,7 +16,7 @@ $ npm i
 $ npm test
 ```
 
-## Development
+## Developmen
 
 ```sh
 $ npm start
